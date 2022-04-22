@@ -5,8 +5,8 @@
     projectId: "auth-js-afc1a",
     storageBucket: "auth-js-afc1a.appspot.com",
     messagingSenderId: "394773602609",
-    appId: "1:394773602609:web:b9f56a3353d4d74416d010",
-    measurementId: "G-009E7XJR5M"
+    appId: "1:394773602609:web:ac46e99e2bdb7fa716d010",
+    measurementId: "G-Q3623XH85S"
   };
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
