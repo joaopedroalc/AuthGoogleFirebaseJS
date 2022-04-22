@@ -55,13 +55,12 @@ body{
   justify-content: center;
   flex-direction: column;
   width: 100vw;
-  height: 100%;
+  height: 100vh;
   font-family: 'Lato', sans-serif;
 }
 
 #home h1 {
   font-size: 2rem;
-  margin-top: 15rem;
 }
 
 #LoginScreen{
